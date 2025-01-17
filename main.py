@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor
 from handlers import start_handler, dog_cat_handlers, admin
 from database.db import init_db
 
-API_TOKEN = "6880179939:AAGRk2TSi94lqj9iEqmrU0M7JUq7KyR4ACk"
+API_TOKEN = "7259552036:AAFqNDeiUZelsIuj-r_aVmAjgQWh832PVvs"
 
 logging.basicConfig(level=logging.INFO)
 
